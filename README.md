@@ -131,4 +131,3 @@ This project demonstrates full end-to-end detection engineering and SOC investig
 ## 🧑‍💻 Author
 
 **Deepak Jadhav**  
-SOC Analyst | Cybersecurity Enthusiast | MTech AIMl
